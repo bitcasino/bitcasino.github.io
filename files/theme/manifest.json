@@ -1,0 +1,16 @@
+ {
+	"responsive": true,
+	"tmpSocialIconFont": true,
+	"description": "Bradley gives your brand the power to stand on its own with pride. Whether you're a law firm or part of an agency, Bradley is perfect for the modern business or individual. With a styled storefront, animated landing page button and dark overlays that make your images really pop, you can't go wrong with Bradley.",
+	"enableEditorJS": true,
+	"features": [
+		"responsive",
+		"css-buttons",
+		"social-icons",
+		"call-to-action",
+		"full-width-header",
+		"navigation-fixed",
+		"navigation-top",
+		"color-palettes"
+	]
+}
